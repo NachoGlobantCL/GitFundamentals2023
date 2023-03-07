@@ -11,7 +11,7 @@
     <filters>
         <field>CASES.STATUS</field>
         <operation>equals</operation>
-        <value>New</value>
+        <value>Working</value>
     </filters>
     <label>Todos los Casos Nuevos</label>
 </ListView>
