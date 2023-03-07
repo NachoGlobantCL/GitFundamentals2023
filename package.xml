@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Case.Todos_los_Casos</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Crear_un_Caso</members>
+        <name>Flow</name>
+    </types>
+    <version>51.0</version>
+</Package>
