@@ -415,7 +415,7 @@
         <locationY>600</locationY>
         <allowBack>true</allowBack>
         <allowFinish>true</allowFinish>
-        <allowPause>true</allowPause>
+        <allowPause>false</allowPause>
         <connector>
             <targetReference>Contact_Lookup</targetReference>
         </connector>
